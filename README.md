@@ -2,9 +2,9 @@
 Get AUC 0.8 at Movielens 20M dataset
 
 # Reproduce
-step1, run data/preprocess.py
+step1, run `data/preprocess.py`
 
-step2, run train.py
+step2, run `train.py`
 
 # Results
 
