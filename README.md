@@ -17,4 +17,4 @@ step2, run `train.py`
 
 # Reasonable
 
-Our method focus on the data preprocess step for the Movielens dataset. In detail, we get the top-15 tags for each user and top-15 tags for each item. We view each tag as an id.
+Our method focus on the data preprocess step for the Movielens dataset. In detail, we get the top-15 tags for each user and top-15 tags for each item/movie. We view each tag as an id.
