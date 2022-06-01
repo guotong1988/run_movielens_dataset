@@ -14,3 +14,7 @@ step2, run `train.py`
 | [Wide & Deep](https://paperswithcode.com/paper/wide-deep-learning-for-recommender-systems)|  0.73 |
 | Our MLP    | 0.79           | 
 | Our transformer |                      | 
+
+# Reasonable
+
+Our method focus on the data preprocess step for the Movielens dataset. In detail, We get the top-15 tags for each user and top-15 tags for each item. We view each tag as an id.
