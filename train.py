@@ -11,7 +11,7 @@ for i, line in enumerate(f):
     if i == 0:
         continue
     splits = [float(one) for one in line.strip().split(",")]
-    if i % 50 == 0:
+    if i % 10 == 0:
         data_dev.append(splits)
     else:
         data_train.append(splits)
