@@ -2,6 +2,8 @@
 Get AUC 0.8 at Movielens 20M dataset
 
 # Reproduce
+step0, download dataset from https://download.csdn.net/download/guotong1988/85505311
+
 step1, run `data/preprocess.py`
 
 step2, run `train.py`
