@@ -14,8 +14,8 @@ step2, run `train.py`
 | ----------- | ----------- | 
 | [Deep Interest Network](https://paperswithcode.com/paper/deep-interest-network-for-click-through-rate)    | 0.73           | 
 | [Wide & Deep](https://paperswithcode.com/paper/wide-deep-learning-for-recommender-systems)|  0.73 |
-| Our MLP    | 0.79           | 
-| Our transformer |   0.79                   | 
+| Our MLP    | 0.792           | 
+| Our transformer |   0.794                  | 
 
 # Reasonable
 
