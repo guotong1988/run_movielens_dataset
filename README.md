@@ -5,7 +5,7 @@ Get AUC 0.794 at Movielens 20M dataset
 
 python3 
 
-tensorflow1.14 or 1.15
+tensorflow 1.14 or 1.15
 
 # Reproduce
 step0, download dataset from https://download.csdn.net/download/guotong1988/85505311
